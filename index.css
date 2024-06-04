@@ -131,15 +131,11 @@
   height: var(--dl-size-size-xsmall);
 }
 .home-text06 {
-  top: 261px;
-  right: 58px;
-  position: absolute;
+  align-self: center;
 }
 .home-text09 {
-  top: 221px;
-  left: 356px;
-  position: absolute;
   font-size: 30px;
+  align-self: center;
 }
 @media(max-width: 767px) {
   .home-navbar-interactive {
